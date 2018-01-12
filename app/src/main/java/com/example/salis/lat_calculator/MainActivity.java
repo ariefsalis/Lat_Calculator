@@ -137,69 +137,69 @@ public class MainActivity extends AppCompatActivity {
                 one.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "1");
+                        outcome.setText(outcome.getText().toString() + "1");
                     }
                 });
 
                 two.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "2");
+                        outcome.setText(outcome.getText().toString() + "2");
                     }
                 });
 
                 three.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "3");
+                        outcome.setText(outcome.getText().toString() + "3");
                     }
                 });
 
                 four.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "4");
+                        outcome.setText(outcome.getText().toString() + "4");
                     }
                 });
 
                 five.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "5");
+                        outcome.setText(outcome.getText().toString() + "5");
                     }
                 });
 
                 six.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "6");
+                        outcome.setText(outcome.getText().toString() + "6");
                     }
                 });
 
                 seven.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "7");
+                        outcome.setText(outcome.getText().toString() + "7");
                     }
                 });
 
                 eight.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "8");
+                        outcome.setText(outcome.getText().toString() + "8");
                     }
                 });
 
                 nine.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "9");
+                        outcome.setText(outcome.getText().toString() + "9");
                     }
                 });
                 zero.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        income.setText(income.getText().toString() + "0");
+                        outcome.setText(outcome.getText().toString() + "0");
                     }
                 });
             }
